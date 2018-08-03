@@ -20,4 +20,3 @@ desc 'outputs hello to the terminal'
     Student.create_table
   end
 end
-end
